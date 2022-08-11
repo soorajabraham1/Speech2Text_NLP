@@ -1,4 +1,4 @@
-#!/home/sooraj/Documents/Github/Speech_2_Text/speech2text/bin/python3
+#!/home/sooraj/Documents/Github/Speech2Text_NLP/speech2text/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
